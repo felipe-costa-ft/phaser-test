@@ -1,0 +1,17 @@
+{
+  "name": "phaser-test",
+  "version": "1.0.0",
+  "description": "Teste do framework de desenvolvimento de jogos Phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server"
+  },
+  "author": "felipe-costa-ft",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "phaser": "^3.24.1",
+    "webpack": "^5.10.1"
+  }
+}
